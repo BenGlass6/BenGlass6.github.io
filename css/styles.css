@@ -8190,7 +8190,7 @@ textarea.form-control-lg {
 
 .text-secondary {
   --bs-text-opacity: 1;
-  color: #450084 !important; /* JMU purple */
+  color: #ffffff !important; /* white */
 }
 
 .text-success {
@@ -11556,12 +11556,12 @@ html {
 
 .bg-gradient-primary-to-secondary {
   background: #d3d3d3;
-  background: linear-gradient(135deg, #d3d3d3 0%, #000080 100%);
+  background: linear-gradient(135deg, #d3d3d3 0%, #1e30f3 100%);
 }
 
 .text-gradient {
   /*color here */
-  background: -webkit-linear-gradient(315deg, #d3d3d3 0%, #000080 100%); 
+  background: -webkit-linear-gradient(315deg, #d3d3d3 0%, #1e30f3 100%); 
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
